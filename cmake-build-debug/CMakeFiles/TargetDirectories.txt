@@ -1,0 +1,3 @@
+/Users/vhn/projects/cpp/kpgenerator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vhn/projects/cpp/kpgenerator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vhn/projects/cpp/kpgenerator/cmake-build-debug/CMakeFiles/kpgenerator.dir

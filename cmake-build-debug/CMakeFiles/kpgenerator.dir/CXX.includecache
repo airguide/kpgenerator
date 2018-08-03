@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vhn/projects/cpp/kpgenerator/main.cpp
+iostream
+-
+string
+-
+iostream
+-
+vector
+-
+algorithm
+-
+
